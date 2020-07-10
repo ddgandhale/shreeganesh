@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="272" started-at="2019-04-22T05:22:20Z" finished-at="2019-04-22T05:22:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="272" started-at="2019-04-22T05:22:20Z" finished-at="2019-04-22T05:22:20Z">
+      <class name="mavenDemoTesting.mathsTest">
+        <test-method status="PASS" signature="add()[pri:0, instance:mavenDemoTesting.mathsTest@66d2e7d9]" name="add" duration-ms="65" started-at="2019-04-22T10:52:20Z" finished-at="2019-04-22T10:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:mavenDemoTesting.mathsTest@66d2e7d9]" name="div" duration-ms="5" started-at="2019-04-22T10:52:20Z" finished-at="2019-04-22T10:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:mavenDemoTesting.mathsTest@66d2e7d9]" name="mul" duration-ms="8" started-at="2019-04-22T10:52:20Z" finished-at="2019-04-22T10:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:mavenDemoTesting.mathsTest@66d2e7d9]" name="sub" duration-ms="22" started-at="2019-04-22T10:52:20Z" finished-at="2019-04-22T10:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- mavenDemoTesting.mathsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
